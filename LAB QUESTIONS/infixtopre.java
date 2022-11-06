@@ -98,5 +98,6 @@ public static void main(String[] args) {
     reverse=rev(exp);
     
     System.out.println("Prefix is "+ rev(intopost(reverse)) );
+    
 }
 }
