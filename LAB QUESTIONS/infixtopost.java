@@ -78,5 +78,6 @@ public static void main(String[] args) {
     exp=input.nextLine();
     
     System.out.println("Postfix is "+ intopost(exp));
+    
 }
 }
